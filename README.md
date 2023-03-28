@@ -1,5 +1,6 @@
 # HomePage
-*Figma tasarımı kullanılmıştır.
+
+* Figma tasarımı kullanılmıştır.
 
 <img src="responsivehomepage/public//herosection.PNG" alt="Anasayfa_" width="600" height="400">
 <img src="responsivehomepage/public//hero2.PNG" alt="Anasayfa_" width="600" height="400">
